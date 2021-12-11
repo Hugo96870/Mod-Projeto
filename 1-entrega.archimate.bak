@@ -101,7 +101,7 @@
     <element xsi:type="archimate:SystemSoftware" name="MySQL" id="id-a83154d3d9334da780635036ad588ed7"/>
     <element xsi:type="archimate:Device" name="HPC" id="id-2cedaab7268245bfa3338a52ee74f2c6"/>
     <element xsi:type="archimate:SystemSoftware" name="Base dados" id="id-f342c546ddc14dc3ba2052de8b01fe61"/>
-    <element xsi:type="archimate:Device" name="Servidor dedicado" id="id-4fc9c51d9cb042fda73b54d3a799dcad"/>
+    <element xsi:type="archimate:Device" name="Servidor " id="id-4fc9c51d9cb042fda73b54d3a799dcad"/>
     <element xsi:type="archimate:SystemSoftware" name="prtTWIN" id="id-61525341c6034980bbaed8a6b3dcb4f2"/>
     <element xsi:type="archimate:Device" name="Server Handkler" id="id-ae5827936c254a3a9df89505642f92ac"/>
     <element xsi:type="archimate:SystemSoftware" name="SFT Server Handler" id="id-98c553a1b7604eba998d246d6b9606d1"/>
